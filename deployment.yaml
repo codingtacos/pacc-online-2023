@@ -8,7 +8,7 @@ deployments:
   entrypoint: null
   parameters: {}
   work_pool:
-    name: null
+    name: default-agent-pool
     work_queue_name: null
     job_variables: {}
 
